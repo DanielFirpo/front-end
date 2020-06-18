@@ -1,5 +1,7 @@
 # [nCOV19.US Tracker](https://ncov19.us/)
 
+![](covid-tracker.PNG)
+
 Contributed to the project as a front end developer using Python, Plotly, HTML and CSS. Mainly worked on HTML and styling, making sure the site matched the provided design document perfectly.
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
