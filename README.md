@@ -6,6 +6,8 @@
 
 Contributed to the project as a front end developer using Python, Plotly, HTML and CSS. Mainly worked on HTML and styling, making sure the site matched the provided design document perfectly.
 
+
+
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 ![Python Version](https://img.shields.io/badge/python-v3.7-blue)
 [![CodeFactor](https://www.codefactor.io/repository/github/ncov19-us/front-end/badge)](https://www.codefactor.io/repository/github/ncov19-us/front-end)
